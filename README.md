@@ -6,4 +6,4 @@ A passionate Front-End developer from Brazil.
 <br>
  📫 How to reach me: tayanperestpZ@hotmail.com
 
-Linkedin: 
+Linkedin: https://www.linkedin.com/in/tayan-peres-6a8a2615a/
