@@ -1,4 +1,5 @@
 Olá 👋, sou @TayanP.
+<br>
 Um apaixonado desenvolvedor Front-End do Brasil.
 <br>
 💻 Atualmente estou aprendendo e trabalhando com VueJS-NuxtJS, NodeJS-AdonisJs.
